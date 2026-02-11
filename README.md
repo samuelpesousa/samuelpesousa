@@ -1,5 +1,6 @@
 ## Olá, Sejam bem vindos ao meu perfil!
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelpesousa&label=Profile%20views&color=0e75b6&style=flat" alt="samuelpesousa" /> </p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Samuel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
