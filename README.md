@@ -12,9 +12,9 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🎓 Estudante de **Engenharia de Controle e Automação** pela UFLA.
-- 💻 Atuo como **Desenvolvedor Full Stack Júnior**, construindo soluções web modernas e eficientes.
-- ⚙️ Busco sempre por arquiteturas limpas e interfaces imponentes.
+- Estudante de **Engenharia de Controle e Automação** pela UFLA.
+- Atuo como **Desenvolvedor Full Stack Júnior**, construindo soluções web modernas e eficientes.
+- Busco sempre por arquiteturas limpas e interfaces imponentes.
 
 ### 🛠️ Minha Stack
 
